@@ -11,7 +11,7 @@
 - python3.7
 - Django REST framework
 
-#### [Frontend](https://github.com/PPnP/samodelkin_layout)
+#### [Frontend](https://github.com/Volokhov-mda/sitodel)
 
 - React
 - HTML5 + CSS3 + JS
