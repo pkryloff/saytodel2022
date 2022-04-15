@@ -22,7 +22,7 @@
 
 2. Склонируйте репозиторий и перейдите в директорию с проектом
    ```bash
-   $ git clone https://github.com/PPnP/Samodelkin.git && cd Samodelkin
+   $ git clone https://github.com/pkryloff/saytodel2022.git && cd saytodel2022
    ```
 
 3. Создайте и активируйте виртуальное окружение
@@ -36,7 +36,7 @@
    $ pip3 install -r requirements.txt
    ```
 
-5. Добавьте файл ```Samodelkin/.env``` c переменными, заданными согласно формату файла ```Samodelkin/.env.example```.
+5. Добавьте файл ```saytodel2022/.env``` c переменными, заданными согласно формату файла ```saytodel2022/.env.example```.
 
 6. Выполните миграцию базы данных
    ```bash
